@@ -1,13 +1,13 @@
 {
   "server": "hub.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "pankajahuja1",
+  "key": "aCxhDStUopf8tsyz4d55",
 
   "capabilities": {
     "build": "junit-browserstack",
     "name": "single_appium_test",
     "browserstack.debug": true,
-    "app": "bs://<hashed app-id>"
+    "app": "bs://35d129dfc8b5223d2e6a65e44dab6fbbedf4e1a3"
   },
 
   "environments": [{
